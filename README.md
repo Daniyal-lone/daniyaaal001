@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Daniyal Lone 👋
+# Hi, I'm Daniyal Lone 👋
 ### AI Engineer | Automation Architect | UI/UX Visionary
 
 > **Architecting the future of "Agentic Workflows" and Autonomous Systems.**
